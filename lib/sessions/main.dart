@@ -34,3 +34,5 @@ class MyApp extends StatelessWidget {
 /// commit: save changes in your project
 /// reset: Move branch to other commit
 /// revet: New commit with reverted changes
+/// merge: move commits from one branch to another
+/// checkout: changes view of the current branch
