@@ -36,3 +36,4 @@ class MyApp extends StatelessWidget {
 /// revet: New commit with reverted changes
 /// merge: move commits from one branch to another
 /// checkout: changes view of the current branch
+/// push: upload current branch to remote repo
