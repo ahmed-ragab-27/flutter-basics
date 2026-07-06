@@ -32,3 +32,5 @@ class MyApp extends StatelessWidget {
 
 /// init : Create empty git repo
 /// commit: save changes in your project
+/// reset: Move branch to other commit
+/// revet: New commit with reverted changes
