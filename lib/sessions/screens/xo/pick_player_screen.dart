@@ -27,7 +27,7 @@ class PickPlayerScreen extends StatelessWidget {
                 ),
               ),
               child: Center(
-                child: Text('Tix-Tac-Toe', style: AppStyles.white40Bold),
+                child: Text('Tic-Tac-Toe', style: AppStyles.white40Bold),
               ),
             ),
           ),
